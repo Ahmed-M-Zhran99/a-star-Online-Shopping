@@ -23,7 +23,8 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/a-star-online-shopping",
+            "outputPath": "docs",
+            "baseHref": "/a-star-Online-Shopping/",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": ["zone.js"],

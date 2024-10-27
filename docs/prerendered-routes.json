@@ -1,0 +1,13 @@
+{
+  "routes": [
+    "/",
+    "/authentication",
+    "/authentication/signin",
+    "/authentication/signup",
+    "/Blog",
+    "/Cart",
+    "/Categories",
+    "/Checkout",
+    "/Home"
+  ]
+}
